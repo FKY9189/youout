@@ -22,7 +22,6 @@ body {
 /* Adjust */
 .about-video video{
   width: 100%;
-  margin-bottom: 10%;
 }
 .visa-img img{
   width: 94%;
@@ -43,12 +42,18 @@ body {
 #youout-show .row{
   margin-bottom: 20px;
 }
-
+.sub-intro{
+  margin-top:5%;
+}
 @media screen and (max-width: 993px){
   #youout-show img{
     text-align: center;
     margin-top: 8%;
     width: 100%;
+  }
+  .sub-intro{
+    margin-left:5%;
+    margin-right:5%;
   }
 }
 
