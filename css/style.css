@@ -36,24 +36,21 @@ body {
   color: white;
 }
 .brand-logo img{
-  height: 60px;
-  margin: 5% 0;
-}
-#youout-show .row{
-  margin-bottom: 20px;
+  height: 300px;
 }
 .sub-intro{
-  margin-top:5%;
+  margin-top: 8%;
+}
+#youout-about #youout-show .row{
+  margin-top: 15px;
 }
 @media screen and (max-width: 993px){
   #youout-show img{
-    text-align: center;
-    margin-top: 8%;
+    margin-top: 15px;
     width: 100%;
   }
-  .sub-intro{
-    margin-left:5%;
-    margin-right:5%;
+  .about-img img{
+    width: 100%;
   }
 }
 
