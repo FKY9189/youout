@@ -20,15 +20,13 @@ body {
 }
 
 /* Adjust */
+.visa-img img{
+  width: 100%;
+}
 .about-video video{
   width: 100%;
 }
-.visa-img img{
-  width: 94%;
-  margin-left: 3%;
-  margin-right: 3%;
-  margin-bottom: 3%;
-}
+
 #youout-carousel{
   margin-top: 5%;
 }
@@ -41,9 +39,6 @@ body {
 .sub-intro{
   margin-top: 8%;
 }
-#youout-about #youout-show .row{
-  margin-top: 15px;
-}
 @media screen and (max-width: 993px){
   #youout-show img{
     margin-top: 15px;
@@ -51,6 +46,9 @@ body {
   }
   .about-img img{
     width: 100%;
+  }
+  .brand-logo img{
+    margin-bottom: 80px;
   }
 }
 
