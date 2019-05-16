@@ -23,6 +23,9 @@ body {
 .visa-img img{
   width: 100%;
 }
+.about-video{
+  padding-bottom: 30px;
+}
 .about-video video{
   width: 100%;
 }
